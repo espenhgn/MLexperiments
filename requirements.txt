@@ -2,6 +2,6 @@ numpy
 scipy
 matplotlib
 keras
-tensorflow=2
+tensorflow>=2.0.1
 fenics-dolfin
 nest-simulator
